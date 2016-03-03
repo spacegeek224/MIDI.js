@@ -2,7 +2,7 @@
 
 * [Basic](./examples/Basic.html) - the most basic implementation.
 * [MIDIPlayer](./examples/MIDIPlayer.html) - how to parse MIDI files, and interact with the data stream.
-* [WhitneyMusicBox](./examples/WhitneyMusicBox.html) - a audio/visual experiment by Jim Bumgardner
+* [WhitneyMusicBox](./examples/WhitneyMusicBox.html) - a audio/visual experiment by Jim Bumgardner.
 
 ## Demos
 
